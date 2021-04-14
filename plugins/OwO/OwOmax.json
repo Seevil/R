@@ -1,0 +1,359 @@
+{
+"阿鲁": {
+        "type": "image",
+        "container": [
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/huaji_han.png\">", "data": "@(huaji_han)", "text": "汗" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/huaji_mj.png\">", "data": "@(huaji_mj)", "text": "墨镜" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/huaji_djy.png\">", "data": "@(huaji_djy)", "text": "脸红" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/huaji_pc.png\">", "data": "@(huaji_pc)", "text": "内伤" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/huaji_shang.png\">", "data": "@(huaji_shang)", "text": "装大款" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/huaji_xiao.png\">", "data": "@(huaji_xiao)", "text": "赞一个" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/toukan.png\">", "data": "@(toukan)", "text": "害羞" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/biexiao.png\">", "data": "@(biexiao)", "text": "汗" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/hemenjiu.png\">", "data": "@(hemenjiu)", "text": "吐血倒地" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/chigua2.png\">", "data": "@(chigua2)", "text": "深思" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/chaiquan_love.png\">", "data": "@(chaiquan_love)", "text": "不高兴" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/chaiquan_red_1.png\">", "data": "@(chaiquan_red_1)", "text": "无语" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/chaiquan_melon.png\">", "data": "@(chaiquan_melon)", "text": "亲亲" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/chaiquan_mask.png\">", "data": "@(chaiquan_mask)", "text": "口水" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/chaiquan_hufen.png\">", "data": "@(chaiquan_hufen)", "text": "尴尬" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/chaiquan_han.png\">", "data": "@(chaiquan_han)", "text": "中指" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/chaiquan_gh.png\">", "data": "@(chaiquan_gh)", "text": "想一想" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/chaiquan_3.png\">", "data": "@(chaiquan_3)", "text": "哭泣" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/chaiquan.png\">", "data": "@(chaiquan)", "text": "便便" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/chaiquanbugaoxin.png\">", "data": "@(chaiquanbugaoxin)", "text": "献花" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/chaiquanzaijian.png\">", "data": "@(chaiquanzaijian)", "text": "皱眉" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/chaiquanku.png\">", "data": "@(chaiquanku)", "text": "傻笑" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/hehe.png\">", "data": "@(hehe)", "text": "呵呵" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/tushe.png\">", "data": "@(tushe)", "text": "吐舌" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/taikaixin.png\">", "data": "@(taikaixin)", "text": "太开心" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/xiaoyan.png\">", "data": "@(xiaoyan)", "text": "鼓掌" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/huaxin.png\">", "data": "@(huaxin)", "text": "花心" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/xiaoguai.png\">", "data": "@(xiaoguai)", "text": "长草" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/guai.png\">", "data": "@(guai)", "text": "献黄瓜" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/wuzuixiao.png\">", "data": "@(wuzuixiao)", "text": "邪恶" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/huaji.png\">", "data": "@(huaji)", "text": "期待" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/nidongde.png\">", "data": "@(nidongde)", "text": "得意" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/bugaoxin.png\">", "data": "@(bugaoxin)", "text": "吐舌" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/nu.png\">", "data": "@(nu)", "text": "喷血" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/han.png\">", "data": "@(han)", "text": "无所谓" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/heixian.png\">", "data": "@(heixian)", "text": "观察" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/lei.png\">", "data": "@(lei)", "text": "暗地观察" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/zhenbang.png\">", "data": "@(zhenbang)", "text": "肿包" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/pen.png\">", "data": "@(pen)", "text": "中枪" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/jingku.png\">", "data": "@(jingku)", "text": "大囧" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/yinxian.png\">", "data": "@(yinxian)", "text": "呲牙" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/bishi.png\">", "data": "@(bishi)", "text": "抠鼻" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/ku.png\">", "data": "@(ku)", "text": "不说话" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/a.png\">", "data": "@(a)", "text": "咽气" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/kuanghan.png\">", "data": "@(kuanghan)", "text": "欢呼" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/what.png\">", "data": "@(what)", "text": "锁眉" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/yiwen.png\">", "data": "@(yiwen)", "text": "蜡烛" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/suanshuang.png\">", "data": "@(suanshuang)", "text": "坐等" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/yamiedie.png\">", "data": "@(yamiedie)", "text": "击掌" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/weiqu.png\">", "data": "@(weiqu)", "text": "惊喜" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/jingya.png\">", "data": "@(jingya)", "text": "喜极而泣" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/shuijiao.png\">", "data": "@(shuijiao)", "text": "抽烟" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/xiaoniao.png\">", "data": "@(xiaoniao)", "text": "不出所料" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/wabi.png\">", "data": "@(wabi)", "text": "愤怒" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/tu.png\">", "data": "@(tu)", "text": "吐" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/xili.png\">", "data": "@(xili)", "text": "黑线" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/xiaohonglian.png\">", "data": "@(xiaohonglian)", "text": "投降" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/landeli.png\">", "data": "@(landeli)", "text": "看热闹" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/mianqiang.png\">", "data": "@(mianqiang)", "text": "勉强" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/aixin.png\">", "data": "@(aixin)", "text": "爱心" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/xinsui.png\">", "data": "@(xinsui)", "text": "心碎" },
+			{ "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/meigui.png\">", "data": "@(meigui)", "text": "玫瑰" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/liwu.png\">", "data": "@(liwu)", "text": "礼物" },            
+			{ "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/caihong.png\">", "data": "@(caihong)", "text": "彩虹" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/taiyang.png\">", "data": "@(taiyang)", "text": "太阳" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/xinxinyueliang.png\">", "data": "@(xinxinyueliang)", "text": "星星月亮" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/qianbi.png\">", "data": "@(qianbi)", "text": "钱币" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/chabei.png\">", "data": "@(chabei)", "text": "咖啡" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/dangao.png\">", "data": "@(dangao)", "text": "蛋糕" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/damuzhi.png\">", "data": "@(damuzhi)", "text": "大拇指" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/shengli.png\">", "data": "@(shengli)", "text": "胜利" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/yo.png\">", "data": "@(yo)", "text": "YO" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/OK.png\">", "data": "@(OK)", "text": "OK" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/shafa.png\">", "data": "@(shafa)", "text": "不出所料" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/shouzhi.png\">", "data": "@(shouzhi)", "text": "愤怒" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/xiangjiao.png\">", "data": "@(xiangjiao)", "text": "香蕉" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/bianbian.png\">", "data": "@(bianbian)", "text": "便便" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/yaowan.png\">", "data": "@(yaowan)", "text": "药丸" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/hlj.png\">", "data": "@(hlj)", "text": "看热闹" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/lazhu.png\">", "data": "@(lazhu)", "text": "蜡烛" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/yingyue.png\">", "data": "@(yingyue)", "text": "音乐" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Seevil/R/G/IMG/bq/dengpao.png\">", "data": "@(dengpao)", "text": "灯泡" }
+        ]
+    },
+  "颜文字": {
+    "type": "emoticon",
+    "container": [
+      {
+        "icon": "OωO",
+        "text": "目瞪口呆"
+      },
+      {
+        "icon": "|´・ω・)ノ",
+        "text": "Hi"
+      },
+      {
+        "icon": "ヾ(≧∇≦*)ゝ",
+        "text": "开心"
+      },
+      {
+        "icon": "(☆ω☆)",
+        "text": "星星眼"
+      },
+      {
+        "icon": "（╯‵□′）╯︵┴─┴",
+        "text": "掀桌"
+      },
+      {
+        "icon": "￣﹃￣",
+        "text": "流口水"
+      },
+      {
+        "icon": "(/ω＼)",
+        "text": "捂脸"
+      },
+      {
+        "icon": "∠( ᐛ 」∠)＿",
+        "text": "给跪"
+      },
+      {
+        "icon": "(๑•̀ㅁ•́ฅ)",
+        "text": "Hi"
+      },
+      {
+        "icon": "→_→",
+        "text": "斜眼"
+      },
+      {
+        "icon": "୧(๑•̀⌄•́๑)૭",
+        "text": "加油"
+      },
+      {
+        "icon": "٩(ˊᗜˋ*)و",
+        "text": "有木有WiFi"
+      },
+      {
+        "icon": "(ノ°ο°)ノ",
+        "text": "前方高能预警"
+      },
+      {
+        "icon": "(´இ皿இ｀)",
+        "text": "我从未见过如此厚颜无耻之人"
+      },
+      {
+        "icon": "⌇●﹏●⌇",
+        "text": "吓死宝宝惹"
+      },
+      {
+        "icon": "(ฅ´ω`ฅ)",
+        "text": "已阅留爪"
+      },
+      {
+        "icon": "(╯°A°)╯︵○○○",
+        "text": "去吧大师球"
+      },
+      {
+        "icon": "φ(￣∇￣o)",
+        "text": "太萌惹"
+      },
+      {
+        "icon": "ヾ(´･ ･｀｡)ノ\"",
+        "text": "咦咦咦"
+      },
+      {
+        "icon": "( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃",
+        "text": "气呼呼"
+      },
+      {
+        "icon": "(ó﹏ò｡)",
+        "text": "我受到了惊吓"
+      },
+      {
+        "icon": "Σ(っ °Д °;)っ",
+        "text": "什么鬼"
+      },
+      {
+        "icon": "( ,,´･ω･)ﾉ\"(´っω･｀｡)",
+        "text": "摸摸头"
+      },
+      {
+        "icon": "╮(╯▽╰)╭ ",
+        "text": "无奈"
+      },
+      {
+        "icon": "o(*////▽////*)q ",
+        "text": "脸红"
+      },
+      {
+        "icon": "＞﹏＜",
+        "text": ""
+      },
+      {
+        "icon": "( ๑´•ω•) \"(ㆆᴗㆆ)",
+        "text": ""
+      },
+      {
+        "icon": "(｡•ˇ‸ˇ•｡)",
+        "text": ""
+      }
+    ]
+  },
+  "Emoji": {
+    "type": "emoji",
+    "container": [
+      {
+        "icon": "😂",
+        "text": ""
+      },
+      {
+        "icon": "😀",
+        "text": ""
+      },
+      {
+        "icon": "😅",
+        "text": ""
+      },
+      {
+        "icon": "😊",
+        "text": ""
+      },
+      {
+        "icon": "🙂",
+        "text": ""
+      },
+      {
+        "icon": "🙃",
+        "text": ""
+      },
+      {
+        "icon": "😌",
+        "text": ""
+      },
+      {
+        "icon": "😍",
+        "text": ""
+      },
+      {
+        "icon": "😘 ",
+        "text": ""
+      },
+      {
+        "icon": "😜",
+        "text": ""
+      },
+      {
+        "icon": "😝",
+        "text": ""
+      },
+      {
+        "icon": "😏",
+        "text": ""
+      },
+      {
+        "icon": "😒",
+        "text": ""
+      },
+      {
+        "icon": "🙄",
+        "text": ""
+      },
+      {
+        "icon": "😳 ",
+        "text": ""
+      },
+      {
+        "icon": "😡",
+        "text": ""
+      },
+      {
+        "icon": "😔",
+        "text": ""
+      },
+      {
+        "icon": "😫",
+        "text": ""
+      },
+      {
+        "icon": "😱",
+        "text": ""
+      },
+      {
+        "icon": "😭",
+        "text": ""
+      },
+      {
+        "icon": "💩",
+        "text": ""
+      },
+      {
+        "icon": "👻",
+        "text": ""
+      },
+      {
+        "icon": "🙌",
+        "text": ""
+      },
+      {
+        "icon": "🖕",
+        "text": ""
+      },
+      {
+        "icon": "👍",
+        "text": ""
+      },
+      {
+        "icon": "👫",
+        "text": ""
+      },
+      {
+        "icon": "👬",
+        "text": ""
+      },
+      {
+        "icon": "👭",
+        "text": ""
+      },
+      {
+        "icon": "🌚",
+        "text": ""
+      },
+      {
+        "icon": "🌝",
+        "text": ""
+      },
+      {
+        "icon": "🙈",
+        "text": ""
+      },
+      {
+        "icon": "💊",
+        "text": ""
+      },
+      {
+        "icon": "😶",
+        "text": ""
+      },
+      {
+        "icon": "🙏",
+        "text": ""
+      },
+      {
+        "icon": "🍦",
+        "text": ""
+      },
+      {
+        "icon": "🍉",
+        "text": ""
+      },
+      {
+        "icon": "😣",
+        "text": ""
+      }
+    ]
+  }  
+}
